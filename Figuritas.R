@@ -1,4 +1,3 @@
-# Paenza; Pagina 12 - Contratapa 06/07/2014
 # Datos:
 #   Album con 640 figuritas.
 # Cada figurita se imprime en cantidades iguales y se distribuye aleatoriamente.
